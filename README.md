@@ -1,14 +1,11 @@
-# Hello, I'm Noah Pirner
+# Hello, I'm Noah
 <a href="https://www.linkedin.com/in/noah-pirner-b821531ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an Army veteran with a strong passion for information security and a recent Master's degree in Cybersecurity. I started this page to showcase my skills and document all of the projects I've undertaken to enhance my expertise in the field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a Cybersecurity graduate, I am eager to launch a career in the field. Armed with academic expertise and prior IT knowledge from the military, I am ready to apply my knowledge and skills to the challenges in cybersecurity. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
