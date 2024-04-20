@@ -24,6 +24,7 @@ As a Cybersecurity graduate, I am eager to launch a career in the field. Armed w
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-015571?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### SIEM
