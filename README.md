@@ -11,7 +11,7 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Reverse TCP Connection Using Metasploit Framework  | <a href="https://google.com">Detection Lab</a>|
+| Reverse TCP Connection Using Metasploit Framework  | <a href="https://github.com/NPIRNER/Test-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
