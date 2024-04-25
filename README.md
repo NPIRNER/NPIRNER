@@ -7,7 +7,7 @@ I'm an Army veteran with a strong passion for information security. I enlisted a
 
 As a Cybersecurity graduate, I am eager to launch a career in the field and jump back into IT. Armed with academic expertise and prior IT knowledge from the military, I am ready to apply my knowledge and skills to the challenges in cybersecurity. 
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
