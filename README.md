@@ -49,6 +49,4 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Infiltrating Windows 10 with Metasploit Framework
-- Test Test Test
+
