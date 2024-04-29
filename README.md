@@ -14,9 +14,6 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 | Reverse TCP Connection Using Metasploit Framework  | <a href="https://github.com/NPIRNER/Test-Project">Metasploit Lab</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab |
 | Forensic Analysis of an Intrusion             | Analysis Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 ### Network
@@ -45,8 +42,5 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 
 ## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
 
 
