@@ -12,7 +12,7 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Reverse TCP Connection Using Metasploit Framework  | <a href="https://github.com/NPIRNER/Test-Project">Metasploit Lab</a>|
-| Forensic Analysis of an Intrusion             | Analysis Lab|
+| Forensic Analysis of an Intrusion             | INWORK|
 
 ## Tools
 ### Network
