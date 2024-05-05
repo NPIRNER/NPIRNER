@@ -12,7 +12,6 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Reverse TCP Connection Using Metasploit Framework  | <a href="https://github.com/NPIRNER/Test-Project">Metasploit Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab |
 | Forensic Analysis of an Intrusion             | Analysis Lab|
 
 ## Tools
@@ -25,7 +24,6 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Operating Systems
@@ -34,13 +32,18 @@ As a Cybersecurity graduate, I am eager to launch a career in the field and jump
     <img src="https://img.shields.io/badge/-linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
+### Vulnerability Scanners
+<div>
+    <img src="https://img.shields.io/badge/-OpenVAS-7EBC6F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-005571?&style=for-the-badge&logoColor=white" />
+</div>
+
 ### Scripting
 <div>
     <img src="https://img.shields.io/badge/-gnubash-E85C33?&style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-powershell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
-## Certifications
 
 
 
